@@ -1,6 +1,6 @@
 #Funciones 1
 
-def facturacion(precio,iva):
+def facturar(precio,iva):
   result = precio + precio*int(iva)/100
   
   return result
