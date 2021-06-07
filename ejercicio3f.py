@@ -1,4 +1,4 @@
-#3from funciones import *
+#3from 3efimport *
 
 print(" EJERCICIO 3  calcular la media de cinco numeros")
 
