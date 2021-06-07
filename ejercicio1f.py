@@ -11,7 +11,7 @@ iva = input("Ingresa el porcentage del IVA para aplicar: ")
 print("")
 if iva == "":
   iva = 21
-facturacion(precio,iva)
-print(f"La factuación agregando el {iva}% de IVA es: ${facturacion(precio,iva)}")
+facturar(precio,iva)
+print(f"La factuación agregando el {iva}% de IVA es: ${facturar(precio,iva)}")
 
 
