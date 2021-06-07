@@ -1,4 +1,4 @@
-
+from 2ef import *
 print("EJERCICIO 2 calcular area y volumen circulo y cilindro")
 print("")
 radio = int(input("Ingresa el readio del circulo: "))
