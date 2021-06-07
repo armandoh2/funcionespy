@@ -1,4 +1,4 @@
-#3from funciones import *
+#3from 4ef import *
 print(" EJERCICIO 4")
 print("calcular el cuadrado de 5 numeros")
 
