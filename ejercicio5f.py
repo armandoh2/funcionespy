@@ -1,4 +1,5 @@
 
+#3from 5ef import *
 print("EJERCICIO 5 calcular datos estadisticos de 5 numeros ")
 
 print("")
